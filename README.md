@@ -1,3 +1,14 @@
+# Kittyfriends
+
+1. clone this repository
+
+2. run `npm install`
+
+3. run  `npm start `
+
+
+## Other Notes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
